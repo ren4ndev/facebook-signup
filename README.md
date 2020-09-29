@@ -12,8 +12,6 @@ Quando esse dia chegar (e se chegar), gostaria de ter os conhecimentos necessár
 
 ## Requisitos Obrigatórios:
 
-Caso você faça o _download_ de bibliotecas externas, utilize o diretório _libs_ (a partir da raiz do projeto) para colocar os arquivos (*.css, *.js, etc...) baixados.
-
 ### 1 - Crie uma barra azul na parte superior da página com a classe top-bar :heavy_check_mark:
 
   Pontos importantes:
